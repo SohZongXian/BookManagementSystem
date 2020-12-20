@@ -1,0 +1,5 @@
+﻿  Problemo Assignment Debug Part 2.cpp
+c:\users\lenovo\desktop\apu year2 sem 2\data structure\problemo assignment debug part 2.cpp(871): warning C4101: 'tempbookname': unreferenced local variable
+c:\users\lenovo\desktop\apu year2 sem 2\data structure\problemo assignment debug part 2.cpp(872): warning C4101: 'tempbookauthor': unreferenced local variable
+  BookmanagementsystemZXRichfinal.vcxproj -> D:\c++ codes\BookmanagementsystemZXRichfinal\Debug\BookmanagementsystemZXRichfinal.exe
+  BookmanagementsystemZXRichfinal.vcxproj -> D:\c++ codes\BookmanagementsystemZXRichfinal\Debug\BookmanagementsystemZXRichfinal.pdb (Partial PDB)
